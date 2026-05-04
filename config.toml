@@ -1,0 +1,14 @@
+[theme]
+# Calm blue-grey palette — professional, doesn't compete with the prediction badges
+primaryColor = "#1565c0"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f5f7fa"
+textColor = "#1a1a1a"
+font = "sans serif"
+
+[server]
+# Defaults are fine for Streamlit Cloud; uncomment for local-only tweaks
+# headless = true
+
+[browser]
+gatherUsageStats = false

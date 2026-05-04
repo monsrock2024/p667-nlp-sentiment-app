@@ -1,0 +1,7 @@
+# Pinned to match the environment that produced p667_artifacts.pkl.
+# Streamlit Cloud will install these exactly. Version mismatches between
+# training and deployment are the #1 cause of "the pickle won't load" errors.
+streamlit==1.57.0
+scikit-learn==1.8.0
+pandas==3.0.2
+numpy==2.4.4
