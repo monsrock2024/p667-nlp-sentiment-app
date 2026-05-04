@@ -85,6 +85,6 @@ environment first and re-pickle.
 
 ## Project team
 
-- **Group 2:** Moin (lead), Kaveeshvar S, Vrushali P Kasliwal, Kushala R Kashyap, Shrinidhi Joshi, Khushi Sudarshan Choudhari
+- **Group 2:** Moin Mohammed, Kaveeshvar S, Vrushali P Kasliwal, Kushala R Kashyap, Shrinidhi Joshi, Khushi Sudarshan Choudhari
 - **Mentor:** Sadiya Ansari
 - **Institute:** ExcelR
