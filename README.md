@@ -4,7 +4,7 @@ A web app for binary sentiment classification, built around a Logistic Regressio
 classifier trained on 1,427 Amazon product reviews. Built as the deployment
 artifact for project P667 — DS Group 2, mentored by Sadiya Ansari.
 
-**Live demo:** [p667-sentiment.streamlit.app](https://p667-sentiment.streamlit.app) *(replace with your actual URL after deploy)*
+**Live demo:** [p667-sentiment.streamlit.app](https://p667-nlp-sentiment-app-bewrugqg4pnewx3lwpeq2a.streamlit.app/) *(replace with your actual URL after deploy)*
 
 ## What it does
 
