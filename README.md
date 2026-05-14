@@ -43,7 +43,7 @@ streamlit-app/
 ## Running locally
 
 ```bash
-git clone https://github.com/monsrock2024/p667-sentiment-app.git
+git clone https://github.com/monsrock2024/p667-nlp-sentiment-app.git
 cd p667-sentiment-app
 pip install -r requirements.txt
 streamlit run app.py
